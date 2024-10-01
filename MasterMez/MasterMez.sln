@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterMez", "MasterMez\MasterMez.csproj", "{66D89125-4A7B-48F8-8514-3B1ADE775560}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MasterMezat_Kasa_Setup", "MasterMezat_Kasa_Setup\MasterMezat_Kasa_Setup.vdproj", "{8FD25A98-7F0D-46E9-AD3D-ED5E9F18CC7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D89125-4A7B-48F8-8514-3B1ADE775560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D89125-4A7B-48F8-8514-3B1ADE775560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D89125-4A7B-48F8-8514-3B1ADE775560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D89125-4A7B-48F8-8514-3B1ADE775560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD25A98-7F0D-46E9-AD3D-ED5E9F18CC7F}.Debug|Any CPU.ActiveCfg = Debug
+		{8FD25A98-7F0D-46E9-AD3D-ED5E9F18CC7F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06B8B037-4AF4-4C40-9722-7EDE19EC6366}
+	EndGlobalSection
+EndGlobal
